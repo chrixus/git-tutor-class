@@ -1,1 +1,1 @@
-console.log('my income1')
+console.log('my income6')
